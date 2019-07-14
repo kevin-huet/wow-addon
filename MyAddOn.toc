@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: My test
+## Author: kevin-huet
+## Notes: test
+## Version: 1.0
+## DefaultState: enabled
+
+test.lua
